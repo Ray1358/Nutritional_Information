@@ -1,0 +1,12 @@
+# ninja log v6
+1	258	1725661743046389314	CMakeFiles/Nutritional_Information.dir/FoodItem.cpp.o	6122c8f1ec0d7ede
+0	260	1725661743046096447	CMakeFiles/Nutritional_Information.dir/main.cpp.o	5c3925157f211a47
+260	292	1725661743305645778	Nutritional_Information	32942889041a717b
+5	43	1725661856218111386	runner.cpp	94dacd0c380e3214
+5	43	1725661856218111386	/Users/ramon/CLionProjects/CSC109/Nutritional_Information/cmake-build-debug/runner.cpp	94dacd0c380e3214
+6	310	1725661856183984321	CMakeFiles/Nutritional_Information.dir/FoodItem.cpp.o	b63bf36d975f9413
+6	313	1725661856183851947	CMakeFiles/Nutritional_Information.dir/main.cpp.o	d4db5477592e0963
+43	341	1725661856221209615	CMakeFiles/unittest.dir/FoodItem.cpp.o	2e7b623b8bdefd58
+313	355	1725661856490894610	Nutritional_Information	32942889041a717b
+43	508	1725661856220958159	CMakeFiles/unittest.dir/runner.cpp.o	c04c10b6e89877a7
+509	539	1725661856686579180	unittest	9ea175dcc9bf5a7b
